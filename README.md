@@ -1,0 +1,1 @@
+Bu bir örnek boş react şablonudur.
